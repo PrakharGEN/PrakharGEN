@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/A_digital_illustration_banner_features_seven_techn.png" alt="Tech Stack Banner" width="800px" />
+  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot 2025-05-12 190333.png" alt="Tech Stack Banner" width="800px" />
 </p>
 
 <h1 align="center">👋 Hi there! I'm Prakhar Mishra</h1>
