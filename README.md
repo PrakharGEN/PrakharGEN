@@ -16,8 +16,8 @@ I'm a passionate developer who loves building tools, crafting visualizations, an
 
 ---
 
-📄 [Document Scanner using Computer Vision](https://github.com/PrakharGEN/Document-Scanner-using-computer-visin)
-> A tool to **scan and enhance documents** using OpenCV. Convert physical pages into neat, digital formats effortlessly.
+📄 [Interactive WhiteBoard](https://github.com/PrakharGEN/WHITEBOARD)
+>A real-time, browser-based whiteboard built with HTML, CSS, JavaScript, and Socket.IO. Ideal for online teaching, technical interviews, and team collaboration. Features include drawing tools, data structure shapes, chat, undo/redo, and multi-user sync.
 
 ---
 
