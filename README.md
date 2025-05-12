@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot 2025-05-12 190333.png" alt="Tech Stack Banner" width="800px" />
+  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot%202025-05-12%20190333.png" alt="Tech Stack Banner" width="800px" />
 </p>
 
 <h1 align="center">👋 Hi there! I'm Prakhar Mishra</h1>
@@ -30,7 +30,17 @@
 > A **browser-based chess game** built using JavaScript, HTML, and CSS. Play, learn, or tweak the logic—it's all yours.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/chess-preview.gif" width="80%">
+  <div class="slideshow-container">
+    <div class="slide fade">
+      <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/chess-preview.gif" width="80%" />
+    </div>
+    <div class="slide fade">
+      <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/chess-preview2.gif" width="80%" />
+    </div>
+    <div class="slide fade">
+      <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/chess-preview3.gif" width="80%" />
+    </div>
+  </div>
 </p>
 
 ---
@@ -40,7 +50,17 @@
 > An AI-powered FAQ chatbot for Philips customer support, built with sentence-transformers for semantic search and audio-based interactions.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/chatbot-preview.gif" width="80%">
+  <div class="slideshow-container">
+    <div class="slide fade">
+      <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/chatbot-preview.gif" width="80%" />
+    </div>
+    <div class="slide fade">
+      <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/chatbot-preview2.gif" width="80%" />
+    </div>
+    <div class="slide fade">
+      <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/chatbot-preview3.gif" width="80%" />
+    </div>
+  </div>
 </p>
 
 ---
@@ -55,11 +75,36 @@
 - 🔄 Undo / Redo  
 - 💬 Chat & Collaboration
 
+<p align="center">
+  <div class="slideshow-container">
+    <div class="slide fade">
+      <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/whiteboard-preview1.gif" width="80%" />
+    </div>
+    <div class="slide fade">
+      <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/whiteboard-preview2.gif" width="80%" />
+    </div>
+    <div class="slide fade">
+      <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/whiteboard-preview3.gif" width="80%" />
+    </div>
+  </div>
+</p>
+
 ---
 
 ### 🎮 [FUN-WITH-JS](https://github.com/PrakharGEN/FUN-WITHJS)
 
 > A collection of **mini JavaScript projects**—games, utilities, and experiments showcasing my web dev learning curve.
+
+<p align="center">
+  <div class="slideshow-container">
+    <div class="slide fade">
+      <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/funwithjs-preview1.gif" width="80%" />
+    </div>
+    <div class="slide fade">
+      <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/funwithjs-preview2.gif" width="80%" />
+    </div>
+  </div>
+</p>
 
 ---
 
@@ -119,3 +164,48 @@
 <p align="center">
   _Thanks for visiting my profile! 🌟 Let's build something cool together._
 </p>
+
+---
+
+<style>
+  .slideshow-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+  }
+
+  .slide {
+    display: none;
+  }
+
+  .fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+
+  @keyframes fade {
+    from { opacity: 0.4; }
+    to { opacity: 1; }
+  }
+
+  .slideshow-container .active {
+    display: block;
+  }
+</style>
+
+<script>
+  let slideIndex = 0;
+  showSlides();
+
+  function showSlides() {
+    let slides = document.querySelectorAll('.slide');
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) { slideIndex = 1 }
+    slides[slideIndex-1].style.display = "block";
+    setTimeout(showSlides, 3000); // Change image every 3 seconds
+  }
+</script>
