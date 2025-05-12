@@ -31,7 +31,7 @@ I'm a passionate developer who loves building tools, crafting visualizations, an
 
 ---
 
- ⏱️ [Time Complexity Analyser](https://github.com/PrakharGEN/Time-Complexity-Analser)
+ ⏱️ [AI FAQ CHATBOT+VOICE_AGENT](https://github.com/PrakharGEN/AI-FAQ-CHATBOT)
 > A tool to **visualize the time complexity** of your code—because understanding efficiency is just as important as solving the problem!
 
 ---
