@@ -62,7 +62,7 @@
 
 ---
 
-### 📘 [Leetcode Java Coding](https://github.com/PrakharGEN/leetcode-java-coing)
+### 📘 [Leetcode Java Coding](https://github.com/PrakharGEN/leetcode-java-coding)
 > My growing collection of **Java-based LeetCode solutions**, organized by topic for quick reference and practice.
 <p align="center">
   <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/download (4).png" alt="LeetCode Solutions Screenshot" width="80%">
