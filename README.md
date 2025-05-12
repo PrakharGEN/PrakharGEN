@@ -1,3 +1,4 @@
+<div style="font-size: 18px; line-height: 1.6;">
 <!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/A_digital_graphic_design_banner_showcases_Prakhar_.png" alt="Prakhar Mishra Banner" width="100%" />
@@ -103,4 +104,4 @@
 ---
 
 _Thanks for visiting my profile! 🌟 Let's build something cool together._
-
+</div>
