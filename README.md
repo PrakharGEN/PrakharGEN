@@ -57,7 +57,7 @@
 ### 🎮 [FUN-WITH-JS](https://github.com/PrakharGEN/FUN-WITHJS)
 > A collection of **mini JavaScript projects**—games, utilities, and experiments showcasing my web dev learning curve.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot%202025-05-12%20103129.png" alt="Fun with JS Project Screenshot" width="80%">
+  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot 2025-05-12 222656.png" alt="Fun with JS Project Screenshot" width="80%">
 </p>
 
 ---
