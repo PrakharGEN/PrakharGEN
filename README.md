@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot 2025-05-12 190333.png" alt="Tech Stack Banner" width="800px" />
+  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot%202025-05-12%20190333.png" alt="Tech Stack Banner" width="800px" />
 </p>
+
 <h1 align="center">👋 Hi there! I'm Prakhar Mishra</h1>
 <p align="center">
   🚀 Passionate Developer | 🎨 Visual Thinker | 🧠 Algorithm Enthusiast
@@ -22,10 +23,11 @@
 ---
 
 ## 🧩 What I Build
+
 ### ♟️ [Chess](https://github.com/PrakharGEN/Chess)
 > A **browser-based chess game** built using JavaScript, HTML, and CSS. Play, learn, or tweak the logic—it's all yours.
 <p align="center">
-  <img src="/PrakharGEN/assets/main/Screenshot 2025-05-12 190333.png" alt="Chess Project Screenshot" width="80%">
+  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot%202025-05-12%20102641.png" alt="Chess Project Screenshot" width="80%">
 </p>
 
 ---
@@ -33,7 +35,7 @@
 ### 🤖 [AI FAQ ChatBot + Voice Agent](https://github.com/PrakharGEN/AI-FAQ-CHATBOT)
 > An AI-powered FAQ chatbot for Philips customer support, built with sentence-transformers for semantic search and audio-based interactions.
 <p align="center">
-  <img src="/api/placeholder/800/400" alt="AI Chatbot Project Screenshot" width="80%">
+  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot%202025-05-12%20103129.png" alt="AI Chatbot Project Screenshot" width="80%">
 </p>
 
 ---
@@ -41,7 +43,7 @@
 ### 📝 [Interactive WhiteBoard](https://github.com/PrakharGEN/WHITEBOARD)
 > A real-time collaborative whiteboard built with Socket.IO. Ideal for teaching, interviews, and teamwork.
 <p align="center">
-  <img src="/api/placeholder/800/400" alt="WhiteBoard Project Screenshot" width="80%">
+  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot%202025-05-12%20133223.png" alt="WhiteBoard Project Screenshot" width="80%">
 </p>
 
 - ✏️ Drawing Tools  
@@ -55,7 +57,7 @@
 ### 🎮 [FUN-WITH-JS](https://github.com/PrakharGEN/FUN-WITHJS)
 > A collection of **mini JavaScript projects**—games, utilities, and experiments showcasing my web dev learning curve.
 <p align="center">
-  <img src="/api/placeholder/800/400" alt="Fun with JS Project Screenshot" width="80%">
+  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot%202025-05-12%20103129.png" alt="Fun with JS Project Screenshot" width="80%">
 </p>
 
 ---
@@ -63,7 +65,7 @@
 ### 📘 [Leetcode Java Coding](https://github.com/PrakharGEN/leetcode-java-coing)
 > My growing collection of **Java-based LeetCode solutions**, organized by topic for quick reference and practice.
 <p align="center">
-  <img src="/api/placeholder/800/400" alt="LeetCode Solutions Screenshot" width="80%">
+  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot%202025-05-12%20102641.png" alt="LeetCode Solutions Screenshot" width="80%">
 </p>
 
 ---
@@ -71,7 +73,7 @@
 ### 📊 [Algo-Visualiser](https://github.com/PrakharGEN/Algo-Visualise)
 > An interactive tool to visualize sorting algorithms, pathfinding, and more. Perfect for learners and CS geeks.
 <p align="center">
-  <img src="/api/placeholder/800/400" alt="Algo Visualiser Screenshot" width="80%">
+  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot%202025-05-12%20102641.png" alt="Algo Visualiser Screenshot" width="80%">
 </p>
 
 ---
@@ -113,5 +115,5 @@
 ---
 
 <p align="center">
-  *Thanks for visiting my profile! 🌟 Let's build something cool together.*
+  <em>Thanks for visiting my profile! 🌟 Let's build something cool together.</em>
 </p>
