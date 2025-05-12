@@ -1,13 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/banner.gif" alt="Prakhar Mishra Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/A_digital_graphic_design_banner_showcases_Prakhar_.png" alt="Prakhar Mishra Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi there! I'm Prakhar Mishra</h1>
 <p align="center">
   🚀 Passionate Developer | 🎨 Visual Thinker | 🧠 Algorithm Enthusiast
 </p>
-
 ---
 
 ### 🛠️ Tech Stack
@@ -29,7 +28,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/chess-preview.gif" width="80%">
 </p>
-
 ---
 
 #### 🤖 [AI FAQ ChatBot + Voice Agent](https://github.com/PrakharGEN/AI-FAQ-CHATBOT)
