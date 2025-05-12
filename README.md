@@ -11,8 +11,8 @@ I'm a passionate developer who loves building tools, crafting visualizations, an
 
 ---
 
- 📊 [Algo-Visualiser](https://github.com/PrakharGEN/Algo-Visualise)
-> An **interactive algorithm visualizer** for sorting, pathfinding, and more. Perfect for learners and geeks alike!
+ ⏱️ [AI FAQ CHATBOT+VOICE_AGENT](https://github.com/PrakharGEN/AI-FAQ-CHATBOT)
+> A tool to **visualize the time complexity** of your code—because understanding efficiency is just as important as solving the problem!
 
 ---
 
@@ -30,10 +30,8 @@ I'm a passionate developer who loves building tools, crafting visualizations, an
 > My growing collection of **Java-based LeetCode solutions**, organized by topic for quick reference and practice.
 
 ---
-
- ⏱️ [AI FAQ CHATBOT+VOICE_AGENT](https://github.com/PrakharGEN/AI-FAQ-CHATBOT)
-> A tool to **visualize the time complexity** of your code—because understanding efficiency is just as important as solving the problem!
-
+ 📊 [Algo-Visualiser](https://github.com/PrakharGEN/Algo-Visualise)
+> An **interactive algorithm visualizer** for sorting, pathfinding, and more. Perfect for learners and geeks alike!
 ---
 
  🧠 My LeetCode Stats
