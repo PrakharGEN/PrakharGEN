@@ -11,7 +11,7 @@ I'm a passionate developer who loves building tools, crafting visualizations, an
 
 ---
 
- ⏱️ [AI FAQ CHATBOT+VOICE_AGENT](https://github.com/PrakharGEN/AI-FAQ-CHATBOT)
+ ⏱️ [AI FAQ ChatBot+Voice_Agent](https://github.com/PrakharGEN/AI-FAQ-CHATBOT)
 > An AI-powered FAQ chatbot for Philips customer support, built with sentence-transformers for semantic search.
 
 ---
