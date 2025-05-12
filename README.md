@@ -28,6 +28,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/chess-preview.gif" width="80%">
 </p>
+---
 
 #### 🤖 [AI FAQ ChatBot + Voice Agent](https://github.com/PrakharGEN/AI-FAQ-CHATBOT)
 > An AI-powered FAQ chatbot for Philips customer support, built with sentence-transformers for semantic search and audio-based interactions.
