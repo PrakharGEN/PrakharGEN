@@ -12,7 +12,7 @@ I'm a passionate developer who loves building tools, crafting visualizations, an
 ---
 
  ⏱️ [AI FAQ CHATBOT+VOICE_AGENT](https://github.com/PrakharGEN/AI-FAQ-CHATBOT)
-> A tool to **visualize the time complexity** of your code—because understanding efficiency is just as important as solving the problem!
+> An AI-powered FAQ chatbot for Philips customer support, built with sentence-transformers for semantic search.
 
 ---
 
