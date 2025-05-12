@@ -35,7 +35,7 @@
 ### 🤖 [AI FAQ ChatBot + Voice Agent](https://github.com/PrakharGEN/AI-FAQ-CHATBOT)
 > An AI-powered FAQ chatbot for Philips customer support, built with sentence-transformers for semantic search and audio-based interactions.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot%202025-05-12%20102641.png" alt="AI Chatbot Project Screenshot" width="80%">
+  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot%202025-05-12%20133223.png" alt="AI Chatbot Project Screenshot" width="80%">
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ### 📝 [Interactive WhiteBoard](https://github.com/PrakharGEN/WHITEBOARD)
 > A real-time collaborative whiteboard built with Socket.IO. Ideal for teaching, interviews, and teamwork.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot%202025-05-12%20133223.png" alt="WhiteBoard Project Screenshot" width="80%">
+  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot%202025-05-12%20102641.png" alt="WhiteBoard Project Screenshot" width="80%">
 </p>
 
 - ✏️ Drawing Tools  
