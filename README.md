@@ -73,7 +73,7 @@
 ### 📊 [Algo-Visualiser](https://github.com/PrakharGEN/Algo-Visualise)
 > An interactive tool to visualize sorting algorithms, pathfinding, and more. Perfect for learners and CS geeks.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot%202025-05-12%20102641.png" alt="Algo Visualiser Screenshot" width="80%">
+  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot 2025-05-12 223255.png" alt="Algo Visualiser Screenshot" width="80%">
 </p>
 
 ---
