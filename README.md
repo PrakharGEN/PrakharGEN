@@ -1,16 +1,17 @@
-<div style="font-size: 18px; line-height: 1.6;">
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/A_digital_graphic_design_banner_showcases_Prakhar_.png" alt="Prakhar Mishra Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/A_digital_illustration_banner_features_seven_techn.png" alt="Tech Stack Banner" width="800px" />
 </p>
 
 <h1 align="center">👋 Hi there! I'm Prakhar Mishra</h1>
 <p align="center">
   🚀 Passionate Developer | 🎨 Visual Thinker | 🧠 Algorithm Enthusiast
 </p>
+
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -22,55 +23,65 @@
 
 ---
 
-### 🧩 What I Build
+## 🧩 What I Build
 
-#### ♟️ [Chess](https://github.com/PrakharGEN/Chess)
+### ♟️ [Chess](https://github.com/PrakharGEN/Chess)
+
 > A **browser-based chess game** built using JavaScript, HTML, and CSS. Play, learn, or tweak the logic—it's all yours.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/chess-preview.gif" width="80%">
 </p>
 
 ---
 
-#### 🤖 [AI FAQ ChatBot + Voice Agent](https://github.com/PrakharGEN/AI-FAQ-CHATBOT)
+### 🤖 [AI FAQ ChatBot + Voice Agent](https://github.com/PrakharGEN/AI-FAQ-CHATBOT)
+
 > An AI-powered FAQ chatbot for Philips customer support, built with sentence-transformers for semantic search and audio-based interactions.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/chatbot-preview.gif" width="80%">
 </p>
 
 ---
 
-#### 📝 [Interactive WhiteBoard](https://github.com/PrakharGEN/WHITEBOARD)
+### 📝 [Interactive WhiteBoard](https://github.com/PrakharGEN/WHITEBOARD)
+
 > A real-time collaborative whiteboard built with Socket.IO. Ideal for teaching, interviews, and teamwork.
+
 - ✏️ Drawing Tools  
 - 📊 Data Structure Shapes  
 - 🧑‍🤝‍🧑 Multi-user Sync  
-- 🔄 Undo / Redo
+- 🔄 Undo / Redo  
+- 💬 Chat & Collaboration
 
 ---
 
-#### 🎮 [FUN-WITH-JS](https://github.com/PrakharGEN/FUN-WITHJS)
-> A collection of **mini JS projects**—games, utilities, and experiments showcasing my web dev learning curve.
+### 🎮 [FUN-WITH-JS](https://github.com/PrakharGEN/FUN-WITHJS)
+
+> A collection of **mini JavaScript projects**—games, utilities, and experiments showcasing my web dev learning curve.
 
 ---
 
-#### 📘 [Leetcode Java Coding](https://github.com/PrakharGEN/leetcode-java-coing)
-> My Java-based LeetCode solutions, sorted by topics for quick revision and practice.
+### 📘 [Leetcode Java Coding](https://github.com/PrakharGEN/leetcode-java-coing)
+
+> My growing collection of **Java-based LeetCode solutions**, organized by topic for quick reference and practice.
 
 ---
 
-#### 📊 [Algo-Visualiser](https://github.com/PrakharGEN/Algo-Visualise)
-> An interactive tool to visualize sorting algorithms, pathfinding, and more.
+### 📊 [Algo-Visualiser](https://github.com/PrakharGEN/Algo-Visualise)
+
+> An interactive tool to visualize sorting algorithms, pathfinding, and more. Perfect for learners and CS geeks.
 
 ---
 
-### 🧠 My LeetCode Stats
+## 🧠 My LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/PrakharMishraEnginner?theme=dark&font=baloo&ext=hatmp)](https://leetcode.com/PrakharMishraEnginner)
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrakharGEN&show_icons=true&theme=tokyonight" width="48%" />
@@ -79,29 +90,32 @@
 
 ---
 
-### 🛣️ Journey So Far
-- 🏁 Started coding in high school with Java
-- 🎓 Explored web dev, ML, and system design in college
-- 🤝 Collaborated in hackathons and open source
-- 💡 Currently building real-time tools and AI integrations
+## 🛣️ Journey So Far
+
+- 🏁 Started coding in high school with **Java**
+- 🎓 Explored **web dev**, **machine learning**, and **system design** in college
+- 🤝 Collaborated in **hackathons** and **open source**
+- 💡 Currently building **real-time tools** and **AI integrations**
 
 ---
 
-### 🧭 Currently Exploring
-- 🤖 LangChain and AI Agents
-- 🔗 Graph Theory + Dynamic Programming
-- 🎨 Frontend animations and WebSockets
+## 🧭 Currently Exploring
+
+- 🤖 **LangChain** and AI Agents  
+- 🔗 **Graph Theory** + Dynamic Programming  
+- 🎨 **Frontend animations** and WebSockets  
 
 ---
 
-### 🌐 Let's Connect
+## 🌐 Let's Connect
 
-- 📫 Email: `mishraprakhar511@gmail.com`
-- 💼 [LinkedIn](https://linkedin.com/in/prakharmishraengineer)
-- 🧠 [LeetCode](https://leetcode.com/PrakharMishraEnginner)
-- 💻 Portfolio: *Coming Soon!*
+- 📫 Email: `mishraprakhar511@gmail.com`  
+- 💼 [LinkedIn](https://linkedin.com/in/prakharmishraengineer)  
+- 🧠 [LeetCode](https://leetcode.com/PrakharMishraEnginner)  
+- 💻 Portfolio: *Coming Soon!*  
 
 ---
 
-_Thanks for visiting my profile! 🌟 Let's build something cool together._
-</div>
+<p align="center">
+  _Thanks for visiting my profile! 🌟 Let's build something cool together._
+</p>
