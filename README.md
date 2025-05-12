@@ -27,7 +27,7 @@
 ### ♟️ [Chess](https://github.com/PrakharGEN/Chess)
 > A **browser-based chess game** built using JavaScript, HTML, and CSS. Play, learn, or tweak the logic—it's all yours.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot%202025-05-12%20102641.png" alt="Chess Project Screenshot" width="80%">
+  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot%202025-05-12%20103129.png" alt="Chess Project Screenshot" width="80%">
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ### 🤖 [AI FAQ ChatBot + Voice Agent](https://github.com/PrakharGEN/AI-FAQ-CHATBOT)
 > An AI-powered FAQ chatbot for Philips customer support, built with sentence-transformers for semantic search and audio-based interactions.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot%202025-05-12%20103129.png" alt="AI Chatbot Project Screenshot" width="80%">
+  <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot%202025-05-12%20102641.png" alt="AI Chatbot Project Screenshot" width="80%">
 </p>
 
 ---
