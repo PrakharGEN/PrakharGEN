@@ -1,9 +1,7 @@
-
 <!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot 2025-05-12 190333.png" alt="Tech Stack Banner" width="800px" />
 </p>
-
 <h1 align="center">👋 Hi there! I'm Prakhar Mishra</h1>
 <p align="center">
   🚀 Passionate Developer | 🎨 Visual Thinker | 🧠 Algorithm Enthusiast
@@ -12,7 +10,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -25,30 +22,27 @@
 ---
 
 ## 🧩 What I Build
-
 ### ♟️ [Chess](https://github.com/PrakharGEN/Chess)
-
 > A **browser-based chess game** built using JavaScript, HTML, and CSS. Play, learn, or tweak the logic—it's all yours.
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/chess-preview.gif" width="80%">
+  <img src="/api/placeholder/800/400" alt="Chess Project Screenshot" width="80%">
 </p>
 
 ---
 
 ### 🤖 [AI FAQ ChatBot + Voice Agent](https://github.com/PrakharGEN/AI-FAQ-CHATBOT)
-
 > An AI-powered FAQ chatbot for Philips customer support, built with sentence-transformers for semantic search and audio-based interactions.
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrakharGEN/assets/main/chatbot-preview.gif" width="80%">
+  <img src="/api/placeholder/800/400" alt="AI Chatbot Project Screenshot" width="80%">
 </p>
 
 ---
 
 ### 📝 [Interactive WhiteBoard](https://github.com/PrakharGEN/WHITEBOARD)
-
 > A real-time collaborative whiteboard built with Socket.IO. Ideal for teaching, interviews, and teamwork.
+<p align="center">
+  <img src="/api/placeholder/800/400" alt="WhiteBoard Project Screenshot" width="80%">
+</p>
 
 - ✏️ Drawing Tools  
 - 📊 Data Structure Shapes  
@@ -59,31 +53,35 @@
 ---
 
 ### 🎮 [FUN-WITH-JS](https://github.com/PrakharGEN/FUN-WITHJS)
-
 > A collection of **mini JavaScript projects**—games, utilities, and experiments showcasing my web dev learning curve.
+<p align="center">
+  <img src="/api/placeholder/800/400" alt="Fun with JS Project Screenshot" width="80%">
+</p>
 
 ---
 
 ### 📘 [Leetcode Java Coding](https://github.com/PrakharGEN/leetcode-java-coing)
-
 > My growing collection of **Java-based LeetCode solutions**, organized by topic for quick reference and practice.
+<p align="center">
+  <img src="/api/placeholder/800/400" alt="LeetCode Solutions Screenshot" width="80%">
+</p>
 
 ---
 
 ### 📊 [Algo-Visualiser](https://github.com/PrakharGEN/Algo-Visualise)
-
 > An interactive tool to visualize sorting algorithms, pathfinding, and more. Perfect for learners and CS geeks.
+<p align="center">
+  <img src="/api/placeholder/800/400" alt="Algo Visualiser Screenshot" width="80%">
+</p>
 
 ---
 
 ## 🧠 My LeetCode Stats
-
 [![LeetCode Stats](https://leetcard.jacoblin.cool/PrakharMishraEnginner?theme=dark&font=baloo&ext=hatmp)](https://leetcode.com/PrakharMishraEnginner)
 
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrakharGEN&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=PrakharGEN&theme=tokyonight" width="48%" />
@@ -92,7 +90,6 @@
 ---
 
 ## 🛣️ Journey So Far
-
 - 🏁 Started coding in high school with **Java**
 - 🎓 Explored **web dev**, **machine learning**, and **system design** in college
 - 🤝 Collaborated in **hackathons** and **open source**
@@ -101,7 +98,6 @@
 ---
 
 ## 🧭 Currently Exploring
-
 - 🤖 **LangChain** and AI Agents  
 - 🔗 **Graph Theory** + Dynamic Programming  
 - 🎨 **Frontend animations** and WebSockets  
@@ -109,7 +105,6 @@
 ---
 
 ## 🌐 Let's Connect
-
 - 📫 Email: mishraprakhar511@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/prakharmishraengineer)  
 - 🧠 [LeetCode](https://leetcode.com/PrakharMishraEnginner)  
@@ -118,5 +113,5 @@
 ---
 
 <p align="center">
-  _Thanks for visiting my profile! 🌟 Let's build something cool together._
+  *Thanks for visiting my profile! 🌟 Let's build something cool together.*
 </p>
