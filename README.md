@@ -25,7 +25,7 @@
 ### ♟️ [Chess](https://github.com/PrakharGEN/Chess)
 > A **browser-based chess game** built using JavaScript, HTML, and CSS. Play, learn, or tweak the logic—it's all yours.
 <p align="center">
-  <img src="/api/placeholder/800/400" alt="Chess Project Screenshot" width="80%">
+  <img src="/PrakharGEN/main/assets/main/Screenshot 2025-05-12 190333.png" alt="Chess Project Screenshot" width="80%">
 </p>
 
 ---
