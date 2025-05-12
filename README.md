@@ -1,4 +1,4 @@
-You said:
+
 <!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/PrakharGEN/PrakharGEN/main/assets/main/Screenshot 2025-05-12 190333.png" alt="Tech Stack Banner" width="800px" />
