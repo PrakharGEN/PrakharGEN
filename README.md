@@ -79,9 +79,9 @@
 ---
 
 ## 🧠 My LeetCode Stats
-<div align="center">
+<p align="center">
 [![LeetCode Stats](https://leetcard.jacoblin.cool/PrakharMishraEnginner?theme=light&font=baloo&extension=activity)](https://leetcode.com/PrakharMishraEnginner/)
-</div>
+</p>
 
 ---
 
