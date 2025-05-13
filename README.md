@@ -79,7 +79,6 @@
 ---
 
 ## 🧠 My LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/PrakharMishraEnginner?theme=dark&font=baloo&ext=hatmp)](https://leetcode.com/PrakharMishraEnginner)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/PrakharMishraEnginner?theme=light&font=baloo&extension=activity)](https://leetcode.com/PrakharMishraEnginner/)
 
 
