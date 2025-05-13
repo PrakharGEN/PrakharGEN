@@ -81,7 +81,7 @@
 ## 🧠 My LeetCode Stats
 <p align="center">
   <a href="https://leetcode.com/PrakharMishraEnginner/">
-    <img src="https://leetcard.jacoblin.cool/PrakharMishraEnginner?theme=light&font=baloo&extension=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/PrakharMishraEnginner?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
   </a>
 </p>
 
