@@ -80,7 +80,9 @@
 
 ## 🧠 My LeetCode Stats
 <p align="center">
-[![LeetCode Stats](https://leetcard.jacoblin.cool/PrakharMishraEnginner?theme=light&font=baloo&extension=activity)](https://leetcode.com/PrakharMishraEnginner/)
+  <a href="https://leetcode.com/PrakharMishraEnginner/">
+    <img src="https://leetcard.jacoblin.cool/PrakharMishraEnginner?theme=light&font=baloo&extension=activity" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
